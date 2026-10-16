@@ -1,6 +1,6 @@
 # API Registro Meteorológico
 
-Primeiramente, abra o Docker Desktop e faça o clone do projeto.
+Primeiramente, abra o Docker Desktop e faça o clone do projeto no GitHub.
 
 Abra no IntelliJ ou VSCode e inicie o banco MySQL localizado na pasta `compose` no terminal:
 

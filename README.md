@@ -1,6 +1,8 @@
 # API Registro Meteorológico
 
-Primeiramente, inicie o banco MySQL localizado na pasta `compose` no terminal:
+Primeiramente, abra o Docker Desktop e faça o clone do projeto.
+
+Abra no IntelliJ ou VSCode e inicie o banco MySQL localizado na pasta `compose` no terminal:
 
 ```bash
 cd compose
